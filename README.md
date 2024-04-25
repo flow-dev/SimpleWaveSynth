@@ -1,2 +1,2 @@
-# GenAudio
-GenAudio
+# SimpleWaveSynth
+SimpleWaveSynth
